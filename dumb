@@ -1,3 +1,0 @@
-getgenv().scriptWl = "KidsOnlyJoinDiscordIfScriptsDown"
-getgenv().ToggleKeybind = Enum.KeyCode.RightControl
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ATrain-Roblox/main/main/Phantasm.lua"))()
